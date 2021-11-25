@@ -11,16 +11,16 @@
 　　　　　&nbsp;조남규(주변소개/부대시설) - google map을 활용한 주변소개, 부대시설 소개 <br>
 　　　　　&nbsp;종대의(관리자 페이지) - 각 페이지에 대한 CRUD 기능 처리와 통계기능 종합 <br>
 　　　　　&nbsp;최무늬(로그인/회원가입/마이페이지) - 기본 로그인,회원가입(kakao,naver api)포함,<br>
-　　　　　&nbsp;마이페이지 회원정보, 적립금, 리뷰 기능 구현<br>         
+　　　　　&nbsp;마이페이지 회원정보, 적립금, 리뷰 기능 구현         
 <br><br>               
 ### 2.소스코드
-  * [model](/final-project/tree/main/MeRoom/src/main/java/com/spring/mr/vo/) &nbsp;,&nbsp; (/final-project/tree/main/MeRoom/src/main/java/com/spring/mr/service/)
-  * [view](/final-project/tree/main/MeRoom/src/main/webapp/views/)
-  * [controller](/final-project/tree/main/MeRoom/src/main/java/com/spring/mr/controller/)
-  * [sql](/final-project/tree/main/MeRoom/sql/)
+  * [model](/MeRoom/src/main/java/com/spring/mr/vo/)
+  * [view](/MeRoom/src/main/webapp/views/)
+  * [controller](/MeRoom/src/main/java/com/spring/mr/controller/)
+  * [sql](/MeRoom/sql/)
 <br><br>
 ### 3.구현ERD
-![구현ERD](https://user-images.githubusercontent.com/68181461/138590422-93e5e9f0-af55-49e2-a067-eeaf578b758a.png)
+![구현ERD](https://user-images.githubusercontent.com/68181461/143406349-94e6ea56-0ec4-4a68-b2e0-e5120d17f1ea.png)
 <br><br>
 
 ### 4. 사용기술

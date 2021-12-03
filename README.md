@@ -35,11 +35,11 @@
 
 <img width="900px" height="600px" src="https://user-images.githubusercontent.com/68181461/143444230-1eb012fa-f1a9-4b76-9745-943712d7da97.gif">
 
-![project1](https://user-images.githubusercontent.com/68181461/143444230-1eb012fa-f1a9-4b76-9745-943712d7da97.gif)
+<img width="900px" height="600px" src="https://user-images.githubusercontent.com/68181461/143445823-453aeaf4-5b87-489e-a711-8606f582184b.gif">
 
-![project2](https://user-images.githubusercontent.com/68181461/143445823-453aeaf4-5b87-489e-a711-8606f582184b.gif)
+<img width="900px" height="600px" src="https://user-images.githubusercontent.com/68181461/143440056-db2203e6-1317-4b39-a318-4856350a9d24.gif">
 
-![project3](https://user-images.githubusercontent.com/68181461/143440056-db2203e6-1317-4b39-a318-4856350a9d24.gif)
+<img width="900px" height="600px" src="https://user-images.githubusercontent.com/68181461/143440021-fd9b7c47-d79e-4968-b9a5-5e5b1a5a3562.gif">
 
-![project4](https://user-images.githubusercontent.com/68181461/143440021-fd9b7c47-d79e-4968-b9a5-5e5b1a5a3562.gif)
+
 

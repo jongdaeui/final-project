@@ -32,7 +32,8 @@
 ### 5.실행결과
 
 <img width="900px" height="600px" src="https://user-images.githubusercontent.com/68181461/143445793-e357ea20-57c7-4eff-996b-35a9122fb767.gif">
-![project0](https://user-images.githubusercontent.com/68181461/143445793-e357ea20-57c7-4eff-996b-35a9122fb767.gif)
+
+<img width="900px" height="600px" src="https://user-images.githubusercontent.com/68181461/143444230-1eb012fa-f1a9-4b76-9745-943712d7da97.gif">
 
 ![project1](https://user-images.githubusercontent.com/68181461/143444230-1eb012fa-f1a9-4b76-9745-943712d7da97.gif)
 

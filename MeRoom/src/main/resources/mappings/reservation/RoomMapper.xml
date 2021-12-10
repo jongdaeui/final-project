@@ -64,7 +64,7 @@
 	<!--  예약 입력을 위한 roomvo데이터 -->
 	<select id="getInfoMap" resultType="roomVO" parameterType="map" resultMap="roomSelectRM">
 		 SELECT * FROM ROOM
-			WHERE RM_NUMBER NOT IN(
+			WHERE RM_KIND = #{rmKind} AND RM_NUMBER NOT IN(
 			SELECT R.RM_NUMBER 
 			FROM ROOM R
 			JOIN RESERVATION RES

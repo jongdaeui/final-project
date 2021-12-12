@@ -15,7 +15,7 @@
   * [sql](/MeRoom/sql/)
 <br><br>
 ### 3.구현ERD
-![구현ERD](https://user-images.githubusercontent.com/68181461/143406349-94e6ea56-0ec4-4a68-b2e0-e5120d17f1ea.png)
+![erd1](https://user-images.githubusercontent.com/68181461/145713623-123352d9-9a9b-42a1-a108-730a0c2230dc.png)
 <br><br>
 
 ### 4. 사용기술

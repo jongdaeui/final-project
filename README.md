@@ -30,9 +30,8 @@
 
 ![image022](https://user-images.githubusercontent.com/68181461/145716568-ce98a554-724b-48bb-af5c-97a29df45166.gif)
 
-<img width="900px" height="600px" src="https://user-images.githubusercontent.com/68181461/143440056-db2203e6-1317-4b39-a318-4856350a9d24.gif">
+![image033](https://user-images.githubusercontent.com/68181461/145716997-a2fc0c90-2773-4916-8513-255f9eb161f0.gif)
 
-<img width="900px" height="600px" src="https://user-images.githubusercontent.com/68181461/143440021-fd9b7c47-d79e-4968-b9a5-5e5b1a5a3562.gif">
 
 
 

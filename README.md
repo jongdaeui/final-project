@@ -6,8 +6,8 @@
    여행을 편하게 즐길 수 있는 숙소와 액티비티와 원데이 클래스로 제주도의 문화와 추억을 쌓을 수 있게 해주는 서비스의 사이트
 
    - 역할 : 객실/예약 - 객실정보 소개, 객실 예약, 결제, 환불, 리뷰조회 기능 <br>
-      
-<br>            
+<br>       
+           
 ### 2.소스코드
   * [model](/MeRoom/src/main/java/com/spring/mr/vo/)
   * [view](/MeRoom/src/main/webapp/views/)

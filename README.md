@@ -29,9 +29,9 @@
 
 ### 5.실행결과
 
-#### 5-1 
+#### 5-1 방소개
 ![image011](https://user-images.githubusercontent.com/68181461/145716385-586e7b55-605d-4602-b6d7-9613a9e7897b.gif)
-
+#### 5-1 예약 방 상세보기, 결제
 ![image022](https://user-images.githubusercontent.com/68181461/145716568-ce98a554-724b-48bb-af5c-97a29df45166.gif)
 
 ![image033](https://user-images.githubusercontent.com/68181461/145716997-a2fc0c90-2773-4916-8513-255f9eb161f0.gif)

@@ -26,7 +26,7 @@
           Summernote, SMTP 
 ### 5.실행결과
 
-<img  src="https://user-images.githubusercontent.com/68181461/143445793-e357ea20-57c7-4eff-996b-35a9122fb767.gif">
+![img01](https://user-images.githubusercontent.com/68181461/145715123-e2b7a012-0763-415d-b15e-48a068e00f87.gif)
 
 <img width="900px" height="600px" src="https://user-images.githubusercontent.com/68181461/143444230-1eb012fa-f1a9-4b76-9745-943712d7da97.gif">
 

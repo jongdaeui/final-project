@@ -16,6 +16,8 @@
 <br><br>
 ### 💾&nbsp; 3.구현ERD
 ![erd1](https://user-images.githubusercontent.com/68181461/145713623-123352d9-9a9b-42a1-a108-730a0c2230dc.png)
+![Copy of 숙박](https://user-images.githubusercontent.com/68181461/145971710-9c5a4995-483d-4502-ab8d-f8222e6eba68.png)
+
 <br><br>
 
 ### 💻&nbsp; 4. 사용기술

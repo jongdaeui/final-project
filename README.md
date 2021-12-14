@@ -14,7 +14,7 @@
   * [controller](/MeRoom/src/main/java/com/spring/mr/controller/)
   * [sql](/MeRoom/sql/)
 <br><br>
-### 3.구현ERD
+### 💾 3.구현ERD
 ![erd1](https://user-images.githubusercontent.com/68181461/145713623-123352d9-9a9b-42a1-a108-730a0c2230dc.png)
 <br><br>
 

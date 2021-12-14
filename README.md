@@ -8,7 +8,7 @@
    - 역할 : 객실/예약 - 객실정보 소개, 객실 예약, 결제, 환불, 리뷰조회 기능 <br>
 <br>       
            
-### 2.소스코드
+### 📖 2.소스코드
   * [model](/MeRoom/src/main/java/com/spring/mr/vo/)
   * [view](/MeRoom/src/main/webapp/views/)
   * [controller](/MeRoom/src/main/java/com/spring/mr/controller/)

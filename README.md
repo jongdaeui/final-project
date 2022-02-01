@@ -26,17 +26,6 @@
   * (사용API) : KAKAO MAP, i'mport, JSCalender, Google Developers, KAKAO Developers, Naver DEvelopers, Coolsms<br>
           Summernote, SMTP 
 
-<br>
-<br>
-<br>
-<h2 id="시연영상"> 🎞 대표기능 시연영상 </h2>
-
-#### 5-1 방소개, 예약 가능한 방 조회
-![image011](https://user-images.githubusercontent.com/68181461/145716385-586e7b55-605d-4602-b6d7-9613a9e7897b.gif)
-#### 5-2 방 상세보기, 결제
-![image022](https://user-images.githubusercontent.com/68181461/145716568-ce98a554-724b-48bb-af5c-97a29df45166.gif)
-#### 5-3 예약할 방 조회
-![image033](https://user-images.githubusercontent.com/68181461/145716997-a2fc0c90-2773-4916-8513-255f9eb161f0.gif)
 
 
 
